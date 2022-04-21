@@ -1,0 +1,165 @@
+   
+{
+    "lugares": [
+        {
+            "id": 1,
+            "lat": 20.352395,
+            "lon": -102.038037,
+            "descripcion": "PIZZAS",
+            "venta": 30,
+            "zona": 1
+        },
+        {
+            "id": 2,
+            "lat": 20.346344,
+            "lon": -102.031381,
+            "descripcion": "PALETERIA",
+            "venta": 10,
+            "zona": 1
+        },
+        {
+            "id": 3,
+            "lat": 20.344538,
+            "lon": -102.038886,
+            "descripcion": "BAR",
+            "venta": 80,
+            "zona": 1
+        },
+        {
+            "id": 4,
+            "lat": 20.351227,
+            "lon": -102.049411,
+            "descripcion": "MAMUT",
+            "venta": 77,
+            "zona": 1
+        },
+        {
+            "id": 5,
+            "lat": 20.349553,
+            "lon": -102.046047,
+            "descripcion": "VANILLA",
+            "venta": 22,
+            "zona": 1
+        },
+        {
+            "id": 6,
+            "lat": 20.350891,
+            "lon": -102.020509,
+            "descripcion": "FRESA",
+            "venta": 11,
+            "zona": 2
+        },
+        {
+            "id": 7,
+            "lat": 20.358503,
+            "lon": -102.00016,
+            "descripcion": "KIWI",
+            "venta": 3,
+            "zona": 2
+        },
+        {
+            "id": 8,
+            "lat": 20.343454,
+            "lon": -102.004747,
+            "descripcion": "ANIMALES",
+            "venta": 21,
+            "zona": 2
+        },
+        {
+            "id": 9,
+            "lat": 20.339551,
+            "lon": -102.00641,
+            "descripcion": "PERROS",
+            "venta": 31,
+            "zona": 2
+        },
+        {
+            "id": 10,
+            "lat": 20.340148,
+            "lon": -102.020289,
+            "descripcion": "GATOS",
+            "venta": 12,
+            "zona": 2
+        },
+        {
+            "id": 11,
+            "lat": 20.006941,
+            "lon": -102.289625,
+            "descripcion": "CABALLOS",
+            "venta": 44,
+            "zona": 3
+        },
+        {
+            "id": 12,
+            "lat": 20.009905,
+            "lon": -102.293455,
+            "descripcion": "IGUANAS",
+            "venta": 11,
+            "zona": 3
+        },
+        {
+            "id": 13,
+            "lat": 20.003103,
+            "lon": -102.295013,
+            "descripcion": "NARANJA",
+            "venta": 55,
+            "zona": 3
+        },
+        {
+            "id": 14,
+            "lat": 19.997456,
+            "lon": -102.293252,
+            "descripcion": "PAPAYA",
+            "venta": 52,
+            "zona": 3
+        },
+        {
+            "id": 15,
+            "lat": 20.00169,
+            "lon": -102.29352,
+            "descripcion": "MANZANA",
+            "venta": 88,
+            "zona": 3
+        },
+        {
+            "id": 17,
+            "lat": 20.005289,
+            "lon": -102.276743,
+            "descripcion": "PINA",
+            "venta": 76,
+            "zona": 4
+        },
+        {
+            "id": 18,
+            "lat": 20.006892,
+            "lon": 102.281045,
+            "descripcion": "PLATANO",
+            "venta": 45,
+            "zona": 4
+        },
+        {
+            "id": 19,
+            "lat": 20.001095,
+            "lon": -102.280787,
+            "descripcion": "HELIO",
+            "venta": 65,
+            "zona": 4
+        },
+        {
+            "id": 20,
+            "lat": 19.998588,
+            "lon": -102.271983,
+            "descripcion": "TAZA",
+            "venta": 75,
+            "zona": 4
+        },
+        {
+            "id": 22,
+            "lat": 20.00608,
+            "lon": -102.273931,
+            "descripcion": "PAN",
+            "venta": 76,
+            "zona": 4
+        }
+    ]
+}
